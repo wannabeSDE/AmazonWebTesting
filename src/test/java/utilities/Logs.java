@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
  * The type Logs.
  */
 public class Logs {
-    private static Logger logger = LogManager.getLogger();
+    private static Logger logger = LogManager.getLogger(Logs.class);
 
     /**
      * Get info logs.
