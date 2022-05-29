@@ -1,0 +1,63 @@
+[INFO ] 2022-05-28 21:18:56,056 [main] Logs - This is a info message
+[ERROR] 2022-05-28 21:18:56,060 [main] Logs - This is a error message
+[INFO ] 2022-05-29 16:01:17,310 [main] Logs - Firefox Web Browser Opened with Window ID: {c7632979-6703-44b7-b940-876858cb0879}
+[INFO ] 2022-05-29 16:01:17,357 [main] Logs - Web Browser maximized
+[INFO ] 2022-05-29 16:01:17,388 [main] Logs - Web Browser all cookies deleted
+[INFO ] 2022-05-29 16:01:21,875 [main] Logs - {https://www.amazon.in/} web page opened
+[INFO ] 2022-05-29 22:20:02,559 [main] Logs - Firefox Web Browser Opened with Window ID: {f2c38f7e-ed87-40e4-8126-72203e2212a0}
+[INFO ] 2022-05-29 22:20:02,575 [main] Logs - Web Browser maximized
+[INFO ] 2022-05-29 22:20:02,591 [main] Logs - Web Browser all cookies deleted
+[INFO ] 2022-05-29 22:20:07,203 [main] Logs - {https://www.amazon.in/} web page opened
+[INFO ] 2022-05-29 22:20:07,218 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 22:20:07,218 [main] Logs - The Password for login is: {RSpdkn7#}
+[INFO ] 2022-05-29 22:20:09,400 [main] Logs - Sign In button is clicked on {https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&}
+[INFO ] 2022-05-29 22:20:09,729 [main] Logs - Email ID entered in the text box
+[INFO ] 2022-05-29 22:20:12,209 [main] Logs - Clicked on {Continue} button
+[INFO ] 2022-05-29 22:20:13,872 [main] Logs - Password entered in the text box
+[INFO ] 2022-05-29 22:20:16,461 [main] Logs - Clicked on {Sign In} button
+[INFO ] 2022-05-29 22:38:11,991 [main] Logs - Firefox Web Browser Opened with Window ID: {46420deb-978e-4dbc-81a2-ab4115624d54}
+[INFO ] 2022-05-29 22:38:12,022 [main] Logs - Web Browser maximized
+[INFO ] 2022-05-29 22:38:12,038 [main] Logs - Web Browser all cookies deleted
+[INFO ] 2022-05-29 22:38:16,838 [main] Logs - {https://www.amazon.in/} web page opened
+[INFO ] 2022-05-29 22:38:16,853 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 22:38:16,853 [main] Logs - The Password for login is: {RSpdkn7#}
+[INFO ] 2022-05-29 22:38:18,392 [main] Logs - Sign In button is clicked on {https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&}
+[INFO ] 2022-05-29 22:38:19,050 [main] Logs - Email ID entered in the text box
+[INFO ] 2022-05-29 22:38:21,545 [main] Logs - Clicked on {Continue} button
+[INFO ] 2022-05-29 22:38:22,282 [main] Logs - Password entered in the text box
+[INFO ] 2022-05-29 22:38:24,919 [main] Logs - Clicked on {Sign In} button
+[ERROR] 2022-05-29 23:27:14,281 [main] Logs - Invalid Web Browser Selected
+[ERROR] 2022-05-29 23:27:14,296 [main] Logs - null
+[INFO ] 2022-05-29 23:27:14,312 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 23:27:14,312 [main] Logs - The Password for login is: {RSpdkn7#}
+[ERROR] 2022-05-29 23:27:14,375 [main] Logs - null
+[ERROR] 2022-05-29 23:27:36,406 [main] Logs - Invalid Web Browser Selected
+[ERROR] 2022-05-29 23:27:36,424 [main] Logs - null
+[INFO ] 2022-05-29 23:27:36,437 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 23:27:36,437 [main] Logs - The Password for login is: {RSpdkn7#}
+[ERROR] 2022-05-29 23:27:36,469 [main] Logs - null
+[INFO ] 2022-05-29 23:30:21,638 [main] Logs - Chrome Web Browser Opened with Window ID: {CDwindow-2EB902372E96DB5FDF79300BCF2004C4}
+[INFO ] 2022-05-29 23:30:21,775 [main] Logs - Web Browser maximized
+[INFO ] 2022-05-29 23:30:22,513 [main] Logs - Web Browser all cookies deleted
+[INFO ] 2022-05-29 23:30:29,043 [main] Logs - {https://www.amazon.in/} web page opened
+[INFO ] 2022-05-29 23:30:29,392 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 23:30:29,392 [main] Logs - The Password for login is: {RSpdkn7#}
+[INFO ] 2022-05-29 23:30:31,568 [main] Logs - Sign In button is clicked on {https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&}
+[INFO ] 2022-05-29 23:30:31,721 [main] Logs - Email ID entered in the text box
+[INFO ] 2022-05-29 23:30:32,762 [main] Logs - Clicked on {Continue} button
+[INFO ] 2022-05-29 23:30:32,986 [main] Logs - Password entered in the text box
+[INFO ] 2022-05-29 23:30:33,120 [main] Logs - Clicked on {Sign In} button
+[INFO ] 2022-05-29 23:33:02,565 [main] Logs - Chrome Web Browser Opened with Window ID: {CDwindow-3733A95FF94DB00936F104262AB91FDA}
+[INFO ] 2022-05-29 23:33:02,717 [main] Logs - Web Browser maximized
+[INFO ] 2022-05-29 23:33:02,738 [main] Logs - Web Browser all cookies deleted
+[INFO ] 2022-05-29 23:33:08,349 [main] Logs - {https://www.amazon.in/} web page opened
+[INFO ] 2022-05-29 23:33:08,391 [main] Logs - The Email ID for login is: {abhishek.das0930@gmail.com}
+[INFO ] 2022-05-29 23:33:08,392 [main] Logs - The Password for login is: {RSpdkn7#}
+[INFO ] 2022-05-29 23:33:11,379 [main] Logs - Sign In button is clicked on {https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&}
+[INFO ] 2022-05-29 23:33:11,573 [main] Logs - Email ID entered in the text box
+[INFO ] 2022-05-29 23:33:13,614 [main] Logs - Clicked on {Continue} button
+[INFO ] 2022-05-29 23:33:13,917 [main] Logs - Password entered in the text box
+[INFO ] 2022-05-29 23:33:14,119 [main] Logs - Clicked on {Sign In} button
+[INFO ] 2022-05-29 23:33:22,183 [main] Logs - The expected value is: {Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in}
+[INFO ] 2022-05-29 23:33:22,184 [main] Logs - The actual value is: {Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in}
+[INFO ] 2022-05-29 23:33:22,184 [main] Logs - The expected value and actual value are same
